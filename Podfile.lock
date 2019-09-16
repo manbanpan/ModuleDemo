@@ -1,0 +1,22 @@
+PODS:
+  - ZBLogining (0.1.0):
+    - ZBNetWorking
+  - ZBNetWorking (0.1.0)
+
+DEPENDENCIES:
+  - ZBLogining (from `Lib/ZBLogining`)
+  - ZBNetWorking (from `Lib/ZBNetWorking`)
+
+EXTERNAL SOURCES:
+  ZBLogining:
+    :path: Lib/ZBLogining
+  ZBNetWorking:
+    :path: Lib/ZBNetWorking
+
+SPEC CHECKSUMS:
+  ZBLogining: 3079c3a177e427780933e2043e6544b93f1dded3
+  ZBNetWorking: c1d0f79ef4ba70a2d20fdd6b35bf8c7ba4fee6f5
+
+PODFILE CHECKSUM: b69fa6d1c531d9b118f1433a734205f8ab558497
+
+COCOAPODS: 1.5.3
