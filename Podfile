@@ -7,6 +7,8 @@ target 'ModuleDemo' do
 
   # Pods for ModuleDemo
 
-  pod 'ZBNetWorking', :path => 'Lib/ZBNetWorking'
+#  pod 'ZBNetWorking', :path => 'Lib/ZBNetWorking'
+
+  pod 'ZBTNetworkings', :path => 'Lib/ZBTNetworkings'
   pod 'ZBLogining', :path => 'Lib/ZBLogining'
 end

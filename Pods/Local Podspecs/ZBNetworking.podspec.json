@@ -1,9 +1,9 @@
 {
   "name": "ZBNetWorking",
   "version": "0.1.0",
-  "summary": "A short description of ZBNetWorking.",
+  "summary": "这是组件化的一个壳demo",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/940576443@qq.com/ZBNetWorking",
+  "homepage": "https://github.com/manbanpan/ZBNetWorking",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "940576443@qq.com": "940576443@qq.com"
   },
   "source": {
-    "git": "https://github.com/940576443@qq.com/ZBNetWorking.git",
+    "git": "https://github.com/manbanpan/ZBNetWorking.git",
     "tag": "0.1.0"
   },
   "platforms": {
